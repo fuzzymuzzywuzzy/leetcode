@@ -3,7 +3,7 @@ LeetCode is an online programming platform that provides programming practice qu
 
 In this repo, I store my completed solutions as portfolio.
 
-# Completed Katas
+# Completed Problems
 
 * [Find numbers with even number of digits](../master/python/findNumbers.py)
 * [Jewels and stones](../master/python/numJewelsInStones.py)
